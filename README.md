@@ -8,7 +8,7 @@ pip install -r requirements.txt
 ```python
 pip install -r requirements.txt
 ```
-## Running RL-GenRisk
+## Running DiffuST
 1. Training script for graph convolutional autoencoder: ./train_gae.ipynb
 
 2. Training script for employs a pre-trained ViT model to obtain image features and utilize a cross-attention layer to incorporate them into the reverse diffusion process: train_img.ipynb
